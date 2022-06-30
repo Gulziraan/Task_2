@@ -1,0 +1,10 @@
+{
+  "members" : [
+    {
+      "name" : "LaboratoryName"
+    },
+    {
+      "name" : "ConnectionString"
+    }
+  ]
+}

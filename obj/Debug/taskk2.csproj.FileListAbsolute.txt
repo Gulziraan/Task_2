@@ -1,0 +1,14 @@
+C:\Users\gulzira\Desktop\praktika\1\taskk2\bin\Debug\taskk2.exe.config
+C:\Users\gulzira\Desktop\praktika\1\taskk2\bin\Debug\taskk2.exe
+C:\Users\gulzira\Desktop\praktika\1\taskk2\bin\Debug\taskk2.pdb
+C:\Users\gulzira\Desktop\praktika\1\taskk2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gulzira\Desktop\praktika\1\taskk2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gulzira\Desktop\praktika\1\taskk2\obj\Debug\taskk2.csproj.AssemblyReference.cache
+C:\Users\gulzira\Desktop\praktika\1\taskk2\obj\Debug\taskk2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulzira\Desktop\praktika\1\taskk2\obj\Debug\taskk2.Properties.Resources.resources
+C:\Users\gulzira\Desktop\praktika\1\taskk2\obj\Debug\taskk2.csproj.GenerateResource.cache
+C:\Users\gulzira\Desktop\praktika\1\taskk2\obj\Debug\taskk2.csproj.CoreCompileInputs.cache
+C:\Users\gulzira\Desktop\praktika\1\taskk2\obj\Debug\taskk2.csproj.CopyComplete
+C:\Users\gulzira\Desktop\praktika\1\taskk2\obj\Debug\taskk2.exe
+C:\Users\gulzira\Desktop\praktika\1\taskk2\obj\Debug\taskk2.pdb
+C:\Users\gulzira\Desktop\praktika\1\taskk2\obj\Debug\taskk2.Form1.resources
