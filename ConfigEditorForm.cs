@@ -69,8 +69,13 @@ namespace taskk2
                 File.WriteAllText("connectionConfigs.json", json);
             else { File.Create("connectionConfigs.json").Close(); File.WriteAllText("connectionConfigs.json", json); }
             }
+
+        private void dataGridView2_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
-            
+
     public class Member
     {
         public Member(string laboratoryName, string connectionString)
